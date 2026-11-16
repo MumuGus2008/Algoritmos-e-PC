@@ -1,0 +1,21 @@
+============== ARENA TECH ==============
+Participantes: 30
+Times necessarios: 6
+Computadores disponiveis: 30
+Infraestrutura: SUFICIENTE
+
+Consumo estimado: 48.00 kWh
+Classificacao do consumo: ALTO
+Custo da energia: R$ 57.60
+Custo da alimentacao: R$ 600.00
+Outros custos: R$ 150.00
+CUSTO TOTAL: R$ 807.60
+CUSTO POR PARTICIPANTE: R$ 26.92
+
+Orcamento disponivel: R$ 1000.00
+Saldo: R$ 192.40
+Situacao do orcamento: DENTRO DO ORCAMENTO
+
+DECISAO FINAL: APROVADO COM RESSALVAS
+Motivo: consumo elevado de energia.
+========================================
