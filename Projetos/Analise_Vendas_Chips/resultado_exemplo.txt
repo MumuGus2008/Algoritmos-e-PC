@@ -1,0 +1,9 @@
+========================================
+       RELATORIO ANUAL DE VENDAS
+========================================
+Media mensal geral: 160 chips
+Media da Vivo: 167 chips
+Media da Claro: 163 chips
+Media da TIM: 150 chips
+Mes com maior media de vendas: dez - 605 chips no total (media: 202 chips)
+Operadora com maior venda anual: Vivo - 1995 chips no ano (media: 167 chips)
